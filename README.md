@@ -1,1 +1,1 @@
-Começo um novo parágrafo.
+Comentando meu script 2.
